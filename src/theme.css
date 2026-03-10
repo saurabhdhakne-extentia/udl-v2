@@ -1,0 +1,37 @@
+/* Theme tokens for @poc/component-library */
+
+:root,
+:root[data-theme='light'] {
+  --poc-bg: #ffffff;
+  --poc-surface: #ffffff;
+  --poc-text: #0b1220;
+  --poc-muted: #5b6577;
+  --poc-border: rgba(15, 23, 42, 0.14);
+  --poc-shadow: 0 10px 30px rgba(2, 6, 23, 0.10);
+  --poc-radius: 14px;
+}
+
+:root[data-theme='dark'] {
+  --poc-bg: #0b1020;
+  --poc-surface: rgba(255, 255, 255, 0.06);
+  --poc-text: #e6e9f2;
+  --poc-muted: #aab2c5;
+  --poc-border: rgba(255, 255, 255, 0.14);
+  --poc-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+  --poc-radius: 14px;
+}
+
+:root[data-theme='high-contrast'] {
+  --poc-bg: #000000;
+  --poc-surface: #000000;
+  --poc-text: #ffffff;
+  --poc-muted: #ffffff;
+  --poc-border: #ffffff;
+  --poc-shadow: 0 0 0 3px #ffffff;
+  --poc-radius: 0px;
+}
+
+body {
+  background: var(--poc-bg);
+  color: var(--poc-text);
+}
