@@ -40,8 +40,7 @@
   --primitive-mode-1-spacing-spacing-80: 80;
   --primitive-mode-1-spacing-spacing-96: 96;
   --primitive-mode-1-spacing-spacing-160: 160;
-  --semantic-mode-1-background-card: var(--primitive-mode-1-colours-neutral-100);
-  --semantic-mode-1-background-footer: var(--primitive-mode-1-colours-primary-sage);
-  --semantic-mode-1-cta-primary-base: var(--primitive-mode-1-colours-neutral-1000);
+  --semantic-mode-1-background-card: var(--primitive-mode-1-colours-primary-sage);
+  --semantic-mode-1-cta-primary-base: var(--primitive-mode-1-colours-primary-sage);
   --semantic-mode-1-cta-primary-text: var(--primitive-mode-1-colours-primary-white);
 }
