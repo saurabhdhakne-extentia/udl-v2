@@ -1,4 +1,5 @@
 import type { ReactNode } from 'react';
+import '../../styles/tokens.css'
 
 export type CardProps = {
   title?: ReactNode;
@@ -13,7 +14,7 @@ export function Card({ title, description, footer, children, className }: CardPr
     <section
       className={className}
       style={{
-        background: 'var(--poc-surface)',
+        background: 'var(--primitive-mode-1-colours-neutral-700)',
         color: 'var(--poc-text)',
         border: '1px solid var(--poc-border)',
         borderRadius: 'var(--poc-radius)',

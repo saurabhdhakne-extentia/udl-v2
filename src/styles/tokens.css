@@ -1,0 +1,47 @@
+/**
+ * Do not edit directly, this file was auto-generated.
+ */
+
+:root {
+  --primitive-mode-1-colours-primary-white: #ffffff;
+  --primitive-mode-1-colours-primary-black: #191919;
+  --primitive-mode-1-colours-primary-sage: #91a24d;
+  --primitive-mode-1-colours-neutral-100: #f6f6f8;
+  --primitive-mode-1-colours-neutral-200: #eeeff2;
+  --primitive-mode-1-colours-neutral-300: #e4e6ea;
+  --primitive-mode-1-colours-neutral-400: #dadde1;
+  --primitive-mode-1-colours-neutral-500: #d1d4d7;
+  --primitive-mode-1-colours-neutral-600: #b5b9bf;
+  --primitive-mode-1-colours-neutral-700: #9a9fa7;
+  --primitive-mode-1-colours-neutral-800: #7f858e;
+  --primitive-mode-1-colours-neutral-900: #6c717a;
+  --primitive-mode-1-colours-neutral-1000: #3f464f;
+  --primitive-mode-1-spacing-spacing-0: 0;
+  --primitive-mode-1-spacing-spacing-2: 2;
+  --primitive-mode-1-spacing-spacing-4: 4;
+  --primitive-mode-1-spacing-spacing-8: 8;
+  --primitive-mode-1-spacing-number-12: 12;
+  --primitive-mode-1-spacing-spacing-16: 16;
+  --primitive-mode-1-spacing-spacing-20: 20;
+  --primitive-mode-1-spacing-spacing-24: 24;
+  --primitive-mode-1-spacing-spacing-28: 28;
+  --primitive-mode-1-spacing-spacing-32: 32;
+  --primitive-mode-1-spacing-spacing-36: 36;
+  --primitive-mode-1-spacing-spacing-40: 40;
+  --primitive-mode-1-spacing-spacing-44: 44;
+  --primitive-mode-1-spacing-spacing-48: 48;
+  --primitive-mode-1-spacing-spacing-52: 52;
+  --primitive-mode-1-spacing-spacing-56: 56;
+  --primitive-mode-1-spacing-spacing-60: 60;
+  --primitive-mode-1-spacing-spacing-64: 64;
+  --primitive-mode-1-spacing-spacing-68: 68;
+  --primitive-mode-1-spacing-spacing-72: 72;
+  --primitive-mode-1-spacing-spacing-76: 76;
+  --primitive-mode-1-spacing-spacing-80: 80;
+  --primitive-mode-1-spacing-spacing-96: 96;
+  --primitive-mode-1-spacing-spacing-160: 160;
+  --semantic-mode-1-background-card: var(--primitive-mode-1-colours-neutral-100);
+  --semantic-mode-1-background-footer: var(--primitive-mode-1-colours-primary-sage);
+  --semantic-mode-1-cta-primary-base: var(--primitive-mode-1-colours-neutral-1000);
+  --semantic-mode-1-cta-primary-text: var(--primitive-mode-1-colours-primary-white);
+}
