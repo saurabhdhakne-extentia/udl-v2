@@ -22,6 +22,7 @@
     "build": "npm run build:lib",
     "build:app": "tsc -b && vite build",
     "build:lib": "tsup src/index.ts --tsconfig tsconfig.app.json --format esm,cjs --dts --sourcemap --clean && node scripts/copy-css.mjs",
+    "pack": "npm pack",
     "lint": "eslint .",
     "preview": "vite preview",
     "storybook": "storybook dev -p 6006",
